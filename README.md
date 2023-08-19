@@ -1,2 +1,2 @@
 
-## To improve is to changegit 
+## To improve is to change
